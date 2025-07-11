@@ -29,7 +29,7 @@ This project uses supervised machine learning to classify sonar signals as eithe
 1. Clone this repository:
    ```bash
    git clone https://github.com/Ramzan-Asif/rock-vs-mine-predictor-using-sonar-data.git
-   cd rock-vs-mine-classifier
+   cd rock-vs-mine-predictor-using-sonar-data
 
 2. Install dependencies:
     pip install -r requirements.txt
@@ -61,7 +61,13 @@ This project uses supervised machine learning to classify sonar signals as eithe
   Add a simple UI for inputting signal data
 
 🧑‍💻 Author
-  Syed Ramzan Asif
+   Syed Ramzan Asif
+
+🌐 Let's Connect
+   Feel free to connect with me on LinkedIn if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
 
 📜 License
   This project is licensed under the MIT License.
+
+♯ Hashtags
+#DataScience #Jupyter #MachineLearning #Notebook #Analytics #DataScienceProject #LearningJourney
