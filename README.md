@@ -38,8 +38,8 @@ This project uses supervised machine learning to classify sonar signals as eithe
     jupyter notebook Rock_vs_Mine_Prediction_ML_Project.ipynb
 
 🚀 Output Example
-    The model takes 60 sonar readings and predicts:
-    The predited value is:  ['R']
+- The model takes 60 sonar readings and predicts:
+    The predited value is:  ['R']  
     The object is Rock!
 
 ---
