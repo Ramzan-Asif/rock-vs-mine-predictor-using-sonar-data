@@ -46,11 +46,15 @@ This project uses supervised machine learning to classify sonar signals as eithe
   - Accuracy Score  
   - Predicting new data with .reshape(1, -1)  
 
+---
+
 ## 📁 Project Structure
   rock-vs-mine-predictor-using-sonar-data/  
   ├── Rock_vs_Mine_Prediction_ML_Project.ipynb  
   ├── README.md  
   ├── requirements.txt  
+
+---
 
 ## ✅ Future Improvements
   - Try other classifiers (e.g., SVM, KNN, Random Forest)  
@@ -65,8 +69,12 @@ This project uses supervised machine learning to classify sonar signals as eithe
 ## 🌐 Let's Connect
    Feel free to connect with me on [LinkedIn](linkedin.com/in/Ramzan-Asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
 
+---
+
 ## 📜 License
   This project is licensed under the MIT License.
+
+---
 
 ## ♯ Hashtags
 #DataScience #Jupyter #MachineLearning #Notebook #Analytics #DataScienceProject #LearningJourney
