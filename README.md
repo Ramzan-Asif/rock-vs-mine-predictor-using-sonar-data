@@ -44,34 +44,34 @@ This project uses supervised machine learning to classify sonar signals as eithe
 
 ---
 
-🧠 Learnings & Concepts Revisited
+## 🧠 Learnings & Concepts Revisited
   Supervised Learning
   Train-Test Split (stratify)
   Logistic Regression
   Accuracy Score
   Predicting new data with .reshape(1, -1)
 
-📁 Project Structure
+## 📁 Project Structure
   rock-vs-mine-predictor-using-sonar-data/
   ├── Rock_vs_Mine_Prediction_ML_Project.ipynb
   ├── README.md
   ├── requirements.txt
 
-✅ Future Improvements
+## ✅ Future Improvements
   Try other classifiers (e.g., SVM, KNN, Random Forest)
   Use cross-validation for better performance metrics
   Add a simple UI for inputting signal data
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
    Syed Ramzan Asif
 
-🌐 Let's Connect
+## 🌐 Let's Connect
    Feel free to connect with me on [LinkedIn](linkedin.com/in/Ramzan-Asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
 
-📜 License
+## 📜 License
   This project is licensed under the MIT License.
 
-♯ Hashtags
+## ♯ Hashtags
 #DataScience #Jupyter #MachineLearning #Notebook #Analytics #DataScienceProject #LearningJourney
