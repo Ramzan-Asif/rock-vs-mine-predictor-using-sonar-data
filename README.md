@@ -37,19 +37,19 @@ This project uses supervised machine learning to classify sonar signals as eithe
 3. Run the notebook:
     jupyter notebook Rock_vs_Mine_Prediction_ML_Project.ipynb
 
-🚀 Output Example
-- The model takes 60 sonar readings and predicts:  
-    The predited value is:  ['R']  
-    The object is Rock!
+### Output Example
+   The model takes 60 sonar readings and predicts:  
+   The predited value is:  ['R']  
+   The object is Rock!
 
 ---
 
 ## 🧠 Learnings & Concepts Revisited  
-  Supervised Learning  
-  Train-Test Split (stratify)  
-  Logistic Regression  
-  Accuracy Score  
-  Predicting new data with .reshape(1, -1)  
+  - Supervised Learning  
+  - Train-Test Split (stratify)  
+  - Logistic Regression  
+  - Accuracy Score  
+  - Predicting new data with .reshape(1, -1)  
 
 ## 📁 Project Structure
   rock-vs-mine-predictor-using-sonar-data/  
@@ -58,9 +58,9 @@ This project uses supervised machine learning to classify sonar signals as eithe
   ├── requirements.txt  
 
 ## ✅ Future Improvements
-  Try other classifiers (e.g., SVM, KNN, Random Forest)  
-  Use cross-validation for better performance metrics  
-  Add a simple UI for inputting signal data  
+  - Try other classifiers (e.g., SVM, KNN, Random Forest)  
+  - Use cross-validation for better performance metrics  
+  - Add a simple UI for inputting signal data  
 
 ---
 
