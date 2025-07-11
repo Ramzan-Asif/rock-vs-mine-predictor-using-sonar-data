@@ -64,17 +64,15 @@ This project uses supervised machine learning to classify sonar signals as eithe
 ---
 
 ## 🧑‍💻 Author
-   Syed Ramzan Asif
+   Syed Ramzan Asif  
 
-## 🌐 Let's Connect
-   Feel free to connect with me on [LinkedIn](linkedin.com/in/Ramzan-Asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
+## 🌐 Let's Connect  
+   Feel free to connect with me on [LinkedIn](linkedin.com/in/Ramzan-Asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!  
 
----
 
-## 📜 License
-  This project is licensed under the MIT License.
+## 📜 License  
+  This project is licensed under the MIT License.  
 
----
 
-## ♯ Hashtags
-#DataScience #Jupyter #MachineLearning #Notebook #Analytics #DataScienceProject #LearningJourney
+## ♯ Hashtags  
+#DataScience #Jupyter #MachineLearning #Notebook #Analytics #DataScienceProject #LearningJourney  
