@@ -64,7 +64,7 @@ This project uses supervised machine learning to classify sonar signals as eithe
    Syed Ramzan Asif
 
 🌐 Let's Connect
-   Feel free to connect with me on LinkedIn if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
+   Feel free to connect with me on [LinkedIn](linkedin.com/in/Ramzan-Asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
 
 📜 License
   This project is licensed under the MIT License.
