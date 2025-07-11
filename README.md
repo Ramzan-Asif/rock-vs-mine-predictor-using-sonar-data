@@ -42,6 +42,8 @@ This project uses supervised machine learning to classify sonar signals as eithe
     The predited value is:  ['R']
     The object is Rock!
 
+---
+
 🧠 Learnings & Concepts Revisited
   Supervised Learning
   Train-Test Split (stratify)
@@ -59,6 +61,8 @@ This project uses supervised machine learning to classify sonar signals as eithe
   Try other classifiers (e.g., SVM, KNN, Random Forest)
   Use cross-validation for better performance metrics
   Add a simple UI for inputting signal data
+
+---
 
 🧑‍💻 Author
    Syed Ramzan Asif
